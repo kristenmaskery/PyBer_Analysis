@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview
-After being recently employed as a data analyst at PyBer, a colleague Omar and I have been tasked by V.Isualize to create an explanatory analysis  using our knowledge of python scripts and pandas libraries using Jupyter Notebook and Matplotlib to create a chart that showcases the ride sharing data we’ve be given by the designated city type. This analysis also includes an in-depth analysis and visualisation of the relationship between total weekly fares and each city type in order to improve upon their services. 
+After being recently employed as a data analyst at PyBer, a colleague Omar and I have been tasked by V.Isualize to create an exploratory analysis  using our knowledge of python scripts and pandas libraries using Jupyter Notebook and Matplotlib to create a chart that showcases the ride sharing data we’ve be given by the designated city type. This analysis also includes an in-depth analysis and visualisation of the relationship between total weekly fares and each city type in order to improve upon their services. 
 
 ## Purpose
 The intended purpose of this analysis is to provide PyBer improve upon there access to ride-sharing services and determine affordability for underserved neighbourhoods. This analysis will provide PyBer with the appropriate analytical data and visualizations required to make their company more accessible throughout these designated cities. 
