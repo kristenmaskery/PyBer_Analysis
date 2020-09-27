@@ -20,11 +20,11 @@ Lastly, the average fare per driver located in the rural area is $55.49 which is
 ## Further Recommendations 
 After analysing the provided data, I have several recommendations for PyBer to improve upon the current disparities present between its inconsistent services. These recommendations are provided in order to advance in their industry as well as provide riders across all cities with improved services, more affordability, and accessibility.
 
-### Hire More Drivers
+### 1. Hire More Drivers
  My first recommendation is to make PyBer more affordable for those living in the rural and suburban areas, this could be appropriately addressed by hiring more drivers to work in these specific areas. This would provide riders with more convenience and usability which would in turn generate more rides and increase overall revenue for these areas. 
 
-### Marketing Campaign
+### 2. Marketing Campaign
 An additional recommendation would be to invest in a marketing campaign that targets the underprovided areas. The marketing campaign would encompass a variety of advertisements that would target all demographics and encourage the use of Pyber. 
 
-### Loyalty Program & Discounts 
+### 3. Loyalty Program & Discounts 
 Lastly, because PyBer has many competitors such as Lyft or Uber, it would be beneficial to jump start a loyalty program that rewards users for using PyBer as opposed to its competitors. For example, for every third use of PyBer they would get a discount for their next ride. 
